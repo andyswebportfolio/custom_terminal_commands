@@ -33,3 +33,10 @@ Yeet [your name]
 Get yeeted.
 
 Heh
+
+//
+
+Extra:
+
+Have it run from startup by putting the touch command in the Terminal settings as a startup command. Add more if you have more than one file on the computer.
+Now your commands act like they persist - although they are not actually being installed in to zsh itself, which would be probably better but I don't know how to do that yet.
